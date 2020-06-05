@@ -1,0 +1,29 @@
+.memo_head {
+  font-size: 20px;
+   display: block;
+   height: 30px;
+   width: 100%;
+   margin: 5px 0px 5px 0px;
+   }
+   .memo_head_name{
+    font-weight: 600;
+     position: relative;
+    margin-left: 50px;
+    }
+.memo_head_link {
+     position: relative;
+     text-align: center;
+     font-weight: 900;
+     margin-left: 70%;
+     background: #5cb85c;
+     border-color: #4cae4c;
+     width: 30px;
+     display: inline-block;
+    border-radius: 15px;
+     }
+     .memo_head_link:hover {
+     background: #54a854;
+     }
+     .memo_head_link a {
+     color: white !important;
+     }
